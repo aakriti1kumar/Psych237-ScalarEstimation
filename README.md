@@ -1,4 +1,3 @@
-# About
 Psych 237 - Model-based wisdom of the crowds in scalar estimation tasks
 
 We're trying to come up with a model-based wisdom of the crowds in scalar-estimation tasks.
